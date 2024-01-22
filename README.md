@@ -44,12 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)
 
-<br/>
-
-##  Open Source
-[![HTML-DOCX](https://github-readme-stats.vercel.app/api/pin/?username=arthurMSA&repo=html-docxjs&border_color=02569B&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02569B)](https://github.com/arthurMSA/html-docxjs)
-[![Arthur Readme](https://github-readme-stats.vercel.app/api/pin/?username=arthurMSA&repo=arthurMSA&border_color=02569B&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02569B)](https://github.com/arthurMSA/arthurMSA)
-<br/>
 <hr/>
 <br/>
 
