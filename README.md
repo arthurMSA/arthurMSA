@@ -48,5 +48,6 @@
 <br/>
 
 ## Published projects
-[Kollabity](https://kollabity.com)
+[Kollabity Data Engineer](https://kollabity.com)
+[ENEM Quiz](https://enem-quiz-app-jkmhn.ondigitalocean.app/)
 
